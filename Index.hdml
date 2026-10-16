@@ -1,0 +1,224 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Journey to Radiologic Technology</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eaf3f8;
+            color: #243746;
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #164e70;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        nav {
+            background-color: #d0e5f0;
+            text-align: center;
+            padding: 12px;
+        }
+
+        nav a {
+            color: #164e70;
+            text-decoration: none;
+            margin: 12px;
+            font-weight: bold;
+        }
+
+        section {
+            background-color: white;
+            margin: 20px auto;
+            padding: 25px;
+            max-width: 900px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #164e70;
+            border-bottom: 2px solid #b5d6e6;
+            padding-bottom: 5px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #9bbacb;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #164e70;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #eaf3f8;
+        }
+
+        footer {
+            background-color: #164e70;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>My Journey to Radiologic Technology</h1>
+        <p>My education, experiences, and future career goals</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#career">My Career</a>
+        <a href="#goals">My Goals</a>
+        <a href="#roadmap">My Roadmap</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+
+        <p>
+            My name is Riley, and I am working toward a future in
+            radiologic technology. I chose this field because I am
+            interested in healthcare, medical imaging, and helping
+            patients receive the care they need.
+        </p>
+
+        <p>
+            Through my classes and clinical experiences, I am learning
+            how important it is to be <strong>accurate, responsible,
+            and professional</strong> when working with patients.
+            I also believe that <em>compassion and communication</em>
+            are important parts of providing good healthcare.
+        </p>
+
+        <img
+            src="https://placehold.co/850x350/164e70/ffffff?text=Radiologic+Technology"
+            alt="Illustration representing radiologic technology"
+        >
+    </section>
+
+    <section id="career">
+        <h2>What Is Radiologic Technology?</h2>
+
+        <p>
+            Radiologic technologists use imaging equipment to create
+            images of the inside of the body. Doctors use these images
+            to help diagnose injuries and medical conditions.
+            Technologists must position patients correctly, follow
+            safety procedures, and produce high-quality images.
+        </p>
+
+        <h3>Why I Chose This Career</h3>
+
+        <ul>
+            <li>I want to work in the healthcare field.</li>
+            <li>I enjoy learning about anatomy and medical imaging.</li>
+            <li>I want to help patients and make a difference.</li>
+            <li>I want a career where I can continue learning new skills.</li>
+        </ul>
+
+        <p>
+            Learn more about medical imaging through the
+            <a href="https://www.radiologyinfo.org/"
+               target="_blank" rel="noopener noreferrer">
+                RadiologyInfo website
+            </a>.
+        </p>
+    </section>
+
+    <section id="goals">
+        <h2>My Future Career Goals</h2>
+
+        <p>
+            My goal is to complete my education, gain experience,
+            and become a skilled radiologic technologist. I want
+            to keep improving my knowledge while learning how to
+            provide safe and respectful patient care.
+        </p>
+
+        <h3>Steps I Plan to Take</h3>
+
+        <ol>
+            <li>Complete my college courses and required clinical hours.</li>
+            <li>Continue practicing patient positioning and imaging skills.</li>
+            <li>Learn and follow radiation safety procedures.</li>
+            <li>Meet the certification and licensing requirements that apply to me.</li>
+            <li>Begin working as a radiologic technologist and continue learning.</li>
+        </ol>
+    </section>
+
+    <section id="roadmap">
+        <h2>My Career Roadmap</h2>
+
+        <table>
+            <caption><strong>My Education and Career Goals</strong></caption>
+
+            <tr>
+                <th>Goal</th>
+                <th>Action Step</th>
+                <th>Timeline</th>
+            </tr>
+
+            <tr>
+                <td>Complete my education</td>
+                <td>Attend classes and finish required coursework.</td>
+                <td>During college</td>
+            </tr>
+
+            <tr>
+                <td>Improve clinical skills</td>
+                <td>Practice positioning, patient care, and image production.</td>
+                <td>Throughout clinical training</td>
+            </tr>
+
+            <tr>
+                <td>Start my career</td>
+                <td>Meet applicable certification and employment requirements.</td>
+                <td>After graduation</td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>My Final Thoughts</h2>
+
+        <p>
+            Becoming a radiologic technologist is an important goal
+            for me. I know that it takes hard work, dedication, and
+            patience to succeed in healthcare. I look forward to
+            continuing my education, gaining more experience, and
+            building a career that I can be proud of.
+        </p>
+    </section>
+
+    <footer>
+        <p>My Journey to Radiologic Technology | CS 110</p>
+    </footer>
+
+</body>
+</html>
